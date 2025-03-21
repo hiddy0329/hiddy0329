@@ -8,6 +8,11 @@
 ## スキル
 
 ### 言語
+<p style="display: inline">
+<img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=FFFFFF">
+</p>
 
 - PHP 3年
 - Ruby 1年
