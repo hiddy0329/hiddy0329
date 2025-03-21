@@ -9,46 +9,38 @@
 
 ### 言語
 <p style="display: inline">
-<img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=FFFFFF&style=for-the-badge">
 </p>
 
-- PHP 3年
-- Ruby 1年
-- Python 1年
-- HTML/CSS 3年
-- JavaScript 3年
-
 ### フレームワーク、ライブラリ
-
-- Laravel 3年
-- Ruby on Rails 1年
-- JQuery 1年
-- Flutter 1年
+<p style="display: inline">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=Laravel&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Ruby on Rails-D30001.svg?logo=rubyonrails&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-JQuery-0769AD.svg?logo=jquery&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&logoColor=FFFFFF&style=for-the-badge">
+</p>
 
 ### データベース
-
-- MySQL 3年
-- PostgreSQL 1年
+<p style="display: inline">
+<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&logoColor=FFFFFF&style=for-the-badge">
+</p>
 
 ### インフラ
-
-- AWS 3年（EC2 | RDS(MySQL) | Aurora | EventBridge | S3 | Lambda | SecretManager | WAF | Cloudfront | ELB）  
-- Docker 3年
-- Git 3年
-
-### プロジェクト管理
-
-- Backlog 3年
-- GitHub 2年
-
-### コミュニケーションツール
-
-- Microsft Teams 3年
-- Slack 3年
-- Notion 1年
-- Discord 1年
+<p style="display: inline">
+<img src="https://img.shields.io/badge/-AWS EC2-FF9900.svg?logo=amazonec2&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS RDS-527FFF.svg?logo=amazonrds&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS S3-569A31.svg?logo=amazons3&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS Lambda-FF9900.svg?logo=awslambda&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS SES-DD344C.svg?logo=amazonsimpleemailservice&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS SQS-FF4F8B.svg?logo=amazonsqs&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS CloudWatch-FF4F8B.svg?logo=amazoncloudwatch&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-AWS SecretManager-DD344C.svg?logo=awssecretsmanager&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&logoColor=FFFFFF&style=for-the-badge">  
+</p>
 
 # Status
 
