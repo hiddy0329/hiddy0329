@@ -9,9 +9,9 @@
 
 ### 言語
 <p style="display: inline">
-<img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=FFFFFF&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&logoColor=FFFFFF&style=for-the-badge">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=FFFFFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-777BB4.svg?logo=php&logoColor=FFFFFF&style=flat" width="10%" height="10%">
+<img src="https://img.shields.io/badge/-CC342D.svg?logo=ruby&logoColor=FFFFFF&style=flat" width="10%" height="10%">
+<img src="https://img.shields.io/badge/-F7DF1E.svg?logo=JavaScript&logoColor=FFFFFF&style=flat" width="10%" height="10%">
 </p>
 
 ### フレームワーク、ライブラリ
