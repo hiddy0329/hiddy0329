@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/-777BB4.svg?logo=php&logoColor=FFFFFF&style=flat" width="10%" height="10%">
 <img src="https://img.shields.io/badge/-CC342D.svg?logo=ruby&logoColor=FFFFFF&style=flat" width="10%" height="10%">
 <img src="https://img.shields.io/badge/-F7DF1E.svg?logo=JavaScript&logoColor=FFFFFF&style=flat" width="10%" height="10%">
+<img src="https://img.shields.io/badge/-3776AB.svg?logo=Python&logoColor=FFFFFF&style=flat" width="10%" height="10%">
 </p>
 
 ### Flamework / Library
