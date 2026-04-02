@@ -26,14 +26,14 @@
 
 ### AWS
 <p>
-<img src="https://img.shields.io/badge/EC2-FF9900.svg?logo=amazonec2&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/RDS-527FFF.svg?logo=amazonrds&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/S3-569A31.svg?logo=amazons3&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/Lambda-FF9900.svg?logo=awslambda&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/SES-DD344C.svg?logo=amazonsimpleemailservice&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/SQS-FF4F8B.svg?logo=amazonsqs&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?logo=amazoncloudwatch&logoColor=FFFFFF&style=flat">
-<img src="https://img.shields.io/badge/Secrets_Manager-DD344C.svg?logo=awssecretsmanager&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/EC2-FF9900.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/RDS-527FFF.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/S3-569A31.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/Lambda-FF9900.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/SES-DD344C.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/SQS-FF4F8B.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
+<img src="https://img.shields.io/badge/Secrets%20Manager-DD344C.svg?logo=amazonwebservices&logoColor=FFFFFF&style=flat">
 </p>
 
 ### Others
@@ -44,9 +44,7 @@
 
 ## Status
 
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddy0329&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hiddy0329&theme=onedark&show_icons=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiddy0329&layout=compact&show_icons=true&theme=onedark)
+![github stats](https://github-readme-stats.vercel.app/api?username=hiddy0329&theme=onedark&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiddy0329&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiddy0329&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
